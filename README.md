@@ -20,4 +20,4 @@ Welcome to my Projects Portfolio here I provide all of my data analytics project
 
 | Project name | Objective | Tableau Dashboard |
 |---|---|---|
-| Pizza Restaurant Analysis | Analysing Pizza restaurant sales data of the whole year | [Tableau](https://public.tableau.com/app/profile/prathamesh.k7019/viz/PizzasalesDashboard/PIZZASALESANALYSIS)
+| [Pizza Restaurant Analysis](https://github.com/Pratham2406/Pizza-sales-Tableau-project.git) | Analysing Pizza restaurant sales data of the whole year | [Tableau](https://public.tableau.com/app/profile/prathamesh.k7019/viz/PizzasalesDashboard/PIZZASALESANALYSIS)
