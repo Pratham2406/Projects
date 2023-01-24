@@ -11,5 +11,4 @@ Welcome to my Projects Portfolio where I provide all of my data analytics projec
 
 | Project name |
 |---|
-| [E-commerce sales
-| Data](https://github.com/Pratham2406/E-commerce-SQL-Project.git)
+| [E-commerce Analytics](https://github.com/Pratham2406/E-commerce-SQL-Project.git)
