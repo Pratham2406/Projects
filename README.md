@@ -6,7 +6,7 @@ Welcome to my Projects Portfolio where I provide all of my data analytics projec
 
 
 
--### SQL 
+- ### SQL 
 
 
 | Project name |
