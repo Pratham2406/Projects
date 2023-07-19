@@ -12,6 +12,7 @@ Welcome to my Projects Portfolio here I provide all of my data analytics project
 | Project name | Objective |
 |---| --- |
 | [E-commerce Analysis](https://github.com/Pratham2406/E-commerce-SQL-Project.git) | Performed EDA on E-commerce shopping dataset of 10 month period (Jan - Oct) |
+| [Properties-EDA](https://github.com/Pratham2406/Properties-EDA-Project.git) | Performed Exploratory Data Analysis on Properties in India Dataset  |
 
 
 
